@@ -6,5 +6,7 @@ public class DemoTwo {
 		
 		System.out.println("Test123");
 		
+		System.out.println("Welcome");
+		
 	}
 }
