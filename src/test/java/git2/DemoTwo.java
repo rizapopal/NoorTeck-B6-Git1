@@ -8,5 +8,10 @@ public class DemoTwo {
 		
 		System.out.println("Welcome");
 		
+		
+	}
+	
+	public void add(int a, int b) {
+		System.out.println(a+b);
 	}
 }
