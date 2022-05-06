@@ -17,6 +17,8 @@ public class DemoTwo {
 	}
 	
 	public void substract(int a, int b) {
+		System.out.println("First num: " + a);
+		System.out.println("Second num: " + b);
 		System.out.println(a-b);
 	}
 	
